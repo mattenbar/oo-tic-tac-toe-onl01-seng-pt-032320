@@ -117,8 +117,8 @@ class TicTacToe
  end
 
  def winner
-   won?[0]
-
+   winning_combo = []
+   winning_combo = won?
  end
 
 
