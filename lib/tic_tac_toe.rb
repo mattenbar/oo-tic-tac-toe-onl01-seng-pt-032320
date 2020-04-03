@@ -117,6 +117,7 @@ class TicTacToe
  end
 
  def winner
+   won?
 
  end
 
@@ -131,5 +132,5 @@ class TicTacToe
 
 
 
- 
+
 end
