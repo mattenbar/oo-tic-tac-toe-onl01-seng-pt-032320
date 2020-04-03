@@ -118,7 +118,7 @@ class TicTacToe
 
  def winner
    won?
-   combo[0]
+
  end
 
 
