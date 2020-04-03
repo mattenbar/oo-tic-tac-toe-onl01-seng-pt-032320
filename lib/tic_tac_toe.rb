@@ -14,7 +14,7 @@ class TicTacToe
   ]
 
   #initialize the board as a new array if the board doesnt already exist
-  def initialize(@board = nil)
+  def initialize(board = nil)
    @board = board || Array.new(9, " ")
  end
 
